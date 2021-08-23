@@ -20,10 +20,11 @@ p{
 	font-family: serif;
 	font-size: 20px;
 }
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 500px){
 	h1{
 	position: absolute;
-	top: 300px;
+	top: 100px;
+	left: 60px;
 	color: white;
 	letter-spacing: 0.4em;
 	font-family: serif;
@@ -31,7 +32,8 @@ p{
 }
 p{
 	position: absolute;
-	top: 350px;
+	top: 250px;
+	left: 40px;
 	color: white;
 	letter-spacing: 0.2em;
 	font-family: serif;
